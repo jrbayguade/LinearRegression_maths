@@ -7,3 +7,5 @@ In this code we will explore how to create a basic lineal regression "manually",
 The aim of a linear regression is to establish the potential correlation between a variable (or multiple variables) and a dependent variable. The line can be then used to predict values that are not in the initial dataset.
 
 The method uses the **least squares method**, which basically aims to minimise the sum of the vertical distance between all of the data points and the line of best fit. This is kind of create the line that fits better the available data. 
+
+Then I calculate R squared also "manually" to assess the model. After all this, I do both the linear regression and the R2 calculation with Numpy to check that the math was good. 
