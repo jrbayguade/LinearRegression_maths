@@ -1,4 +1,4 @@
-#### **Least Squares Regression line**
+#### **Least Squares Linear Regression**
 
 I have to ackowledge the first time I read and understood a linear regression I found it incredibly simple but smart at the same time. Just fascinating. So I wanted to play a bit with the concept.
 
